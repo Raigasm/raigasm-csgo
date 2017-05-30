@@ -1,4 +1,6 @@
 # RAIGASM CSGO Config (READ ME)
+imFwsM-ZYzs
+[![Tutorial Video](https://img.youtube.com/vi/imFwsM-ZYzs/0.jpg)](https://www.youtube.com/watch?v=imFwsM-ZYzs)
 ## How to Install
 
 1. Download and extract `RAIGASM CSGO Config.zip`

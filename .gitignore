@@ -156,3 +156,7 @@ test/temp
 .tmp
 ####################################
 Icon
+super-cfg/admin.cfg 
+admin.cfg 
+*/admin.cfg 
+super-cfg/rai/*
